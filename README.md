@@ -1,9 +1,11 @@
 ### Hi 👋
-#### Welcome to my Github!
+#### **Welcome to my Github!**
 
-##### I'm Catherine, and I'm currently a freshman @UCI studying Computer Science and Engineering.
+##### I'm Catherine, and I'm currently a first year at UCI studying Computer Science and Engineering.
 
-##### I'm currently still exploring different fields in CS. So far, I've experimented with robotics programming (C++) and am currently diving into web development. I'm looking forward to learning more about the different specialties in CS and creating different projects! 
+##### I'm currently still exploring different fields in CS. Right now, I'm diving into web development. I'm looking forward to learning more about the different specialties in CS and creating different projects! 
+
+##### Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/zhonghe-catherine-zheng/) or [email](mailto:zhonghezheng246810@gmail.com)! 
 <!--
 **zhonghezheng/zhonghezheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
