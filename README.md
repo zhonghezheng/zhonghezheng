@@ -1,4 +1,4 @@
-### ![Hi](https://c.tenor.com/kvXMS__Bkd8AAAAC/hello-hi.gif)
+### ![Hi](https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif)
 #### **Welcome to my Github!**
 
 ##### I'm Catherine, and I'm currently a first year at UCI studying Computer Science and Engineering.
