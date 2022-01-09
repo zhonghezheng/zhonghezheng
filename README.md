@@ -3,7 +3,7 @@
 
 ##### I'm Catherine, and I'm currently a freshman @UCI studying Computer Science and Engineering.
 
-#### I'm currently still exploring different fields in CS. So far, I've experimented with robotics programming (C++) and am currently diving into web development. I'm looking forward to learning more about the different specialties in CS and creating different projects! 
+##### I'm currently still exploring different fields in CS. So far, I've experimented with robotics programming (C++) and am currently diving into web development. I'm looking forward to learning more about the different specialties in CS and creating different projects! 
 <!--
 **zhonghezheng/zhonghezheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
