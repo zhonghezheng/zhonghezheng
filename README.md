@@ -1,4 +1,4 @@
-### ![Hi](hi.gif)
+### ![Hi](C:\Users\zhong\OneDrive\Desktop\ICS Project Fellowship\Project 1\hi.gif)
 #### **Welcome to my Github!**
 
 ##### I'm Catherine, and I'm currently a first year at UCI studying Computer Science and Engineering.
