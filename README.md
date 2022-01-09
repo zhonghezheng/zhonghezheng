@@ -1,9 +1,9 @@
-### Hi 👋
+### ![Hi](https://tenor.com/view/hello-hi-duck-cute-kawaii-gif-11820295)
 #### **Welcome to my Github!**
 
 ##### I'm Catherine, and I'm currently a first year at UCI studying Computer Science and Engineering.
 
-##### I'm currently still exploring different fields in CS. Right now, I'm diving into web development. I'm looking forward to learning more about the different specialties in CS and creating different projects! 
+##### I'm currently still exploring different fields in CS. Right now, I'm diving into web development. Follow along as I learn more about the different specialties in CS and creating different projects! 
 
 ##### Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/zhonghe-catherine-zheng/) or [email](mailto:zhonghezheng246810@gmail.com)! 
 <!--
