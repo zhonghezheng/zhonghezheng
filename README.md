@@ -1,4 +1,4 @@
-### ![Hi](https://tenor.com/view/hello-hi-duck-cute-kawaii-gif-11820295)
+### ![Hi](hi.gif)
 #### **Welcome to my Github!**
 
 ##### I'm Catherine, and I'm currently a first year at UCI studying Computer Science and Engineering.
