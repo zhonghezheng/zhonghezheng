@@ -1,11 +1,11 @@
 ### ![Hi](https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif)
 #### **Welcome to my Github!**
 
-##### I'm Catherine, and I'm currently a first year at UCI studying Computer Science and Engineering.
+##### I'm Catherine, a student at Caltech studying Computer Science at Caltech. 
 
-##### I'm currently still exploring different fields in CS. Right now, I'm diving into web development. Follow along as I learn  about different specialties in CS and create different projects here on Github! 
+##### I'm currently pursing both the Machine Learning and Robotics track at Caltech with a minor in Control and Dynamic Systems.
 
-##### Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/zhonghe-catherine-zheng/) or [email](mailto:zhonghezheng246810@gmail.com)! 
+##### Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/zhonghe-catherine-zheng/) or [email](mailto:zzheng3@caltech.edu)! 
 <!--
 **zhonghezheng/zhonghezheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
